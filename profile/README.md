@@ -1,4 +1,4 @@
-### Hi. This KubeGems Project News！ 🎉
+### Hi. This is KubeGems Project News！ 🎉
 
 
 We have Open-Sourced the KuebGems project, which will soon release v2.3.0!🎁
