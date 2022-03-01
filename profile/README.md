@@ -1,6 +1,5 @@
-#### Hi. This KubeGems Project News！ 📝
+### Hi. This KubeGems Project News！ 📝
 
----
 
 We have Open-Sourced the KuebGems project, which will soon release v2.3.0!
 KubeGems is a Multi-tenant management platform based on Kubernetes, which has supported tens of thousands of containers in stable operation right now.
