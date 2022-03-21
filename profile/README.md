@@ -7,6 +7,6 @@ We have Open-Sourced the KuebGems project, which will soon release v1.20.0! 🎁
 
 Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon as possible.
 
->You can visit our [KubeGems Online Demo](http://47.108.255.162/) ,&nbsp; account: admin &nbsp;&nbsp; password: demo!@#admin
+>You can visit our [KubeGems Online Demo](https://demo.kubegems.io/) ,&nbsp; account: admin &nbsp;&nbsp; password: demo!@#admin
 
 
