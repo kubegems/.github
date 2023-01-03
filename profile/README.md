@@ -10,4 +10,4 @@ Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon a
 
 ---
 
-KubeGems will go in the future towards AI/MLops and Observability 👀, Feel free to join our [project](https://github.com/orgs/kubegems/projects/9) to share your ideas! 👋
+KubeGems will go in the future towards AI/MLops and Observability 👀, Feel free to join our [project](https://github.com/orgs/kubegems/projects/9) to share your proposal! 👋
