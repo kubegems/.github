@@ -11,4 +11,5 @@ Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon a
 ---
 
 KubeGems will go in the future towards AI/MLops and Observability 👀, Feel free to join our [project](https://github.com/orgs/kubegems/projects/9) to share your proposal! 👋
-<img width="1678" alt="image" src="https://github.com/kubegems/.github/assets/2688646/d535c624-bc5e-4480-a94d-72a19a0d5a1a">
+<img width="380" alt="image" src="https://github.com/kubegems/.github/assets/2688646/d535c624-bc5e-4480-a94d-72a19a0d5a1a">
+<img width="320" alt="image" src="https://github.com/kubegems/.github/assets/2688646/561d9aef-f039-4ae2-916c-6a29dc660702">
