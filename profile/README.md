@@ -1,6 +1,6 @@
 ## Hi. This is KubeGems Project News！ 🎉
 
-We have Open-Sourced the KuebGems project, which will soon release v1.23! 🎁
+We have Open-Sourced the KuebGems project, which will soon release v1.24! 🎁
 
 **KubeGems** is a Multi-tenant management platform based on Kubernetes, which has supported tens of thousands of containers in stable operation right now.
 
@@ -11,3 +11,4 @@ Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon a
 ---
 
 KubeGems will go in the future towards AI/MLops and Observability 👀, Feel free to join our [project](https://github.com/orgs/kubegems/projects/9) to share your proposal! 👋
+<img width="1678" alt="image" src="https://github.com/kubegems/.github/assets/2688646/d535c624-bc5e-4480-a94d-72a19a0d5a1a">
