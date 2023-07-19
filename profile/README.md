@@ -5,7 +5,7 @@ We have Open-Sourced the OpenGems project, which will soon release v1.24! 🎁
 - **KubeGems** is a Multi-tenant management platform based on Kubernetes, which has supported tens of thousands of containers in stable operation right now.
 - **ObserGems** An OpenTelemetry-based cloud-native observability platform for infrastructure monitoring, application performance, tracing, and application performance.
 - **EdgeGems** A platform that supports managing edge clusters by k3s and executing batch deployment tasks.
-- **AiGems** A Cloud-native & high-performance machine learning platform. Include LLM training、 modelHub and inference. Only supported by `OpenGems Studio`
+- **AiGems** A Cloud-native & high-performance machine learning platform. Include LLM training、 modelHub and inference. 
 
 Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon as possible.
 
