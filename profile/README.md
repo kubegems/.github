@@ -1,4 +1,4 @@
-## Hi. This is OpenGems Project News！ 🎉
+## Hi. This is OpenGems Project News！ 👋
 
 We deeply appreciate your ongoing attention and support for KubeGems. After careful consideration, we have decided to make significant decisions for the continuous development and more focused positioning of our product in the future.
 
