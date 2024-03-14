@@ -15,14 +15,9 @@ The new OpenGems contains the following modules
 - **EdgeGems**: A platform that supports managing edge clusters by k3s and executing batch deployment tasks.
 - **AIGems**: A Cloud-native & high-performance machine learning platform. Include LLM training、 modelHub and inference.
 - **GemsHub**: A lightweight repository service containing applications (helm packaged), AI models, datasets, and community operations features.
-- **DataWork(experiment)**: A data services based on big-data frameworks.
 
 Any issues about KubeGems can be sumbit on GitHub,and We will solve it as soon as possible.
 
->You can visit our [KubeGems Online Demo](https://demo.kubegems.io/) ,&nbsp; account: admin &nbsp;&nbsp; password: demo!@#admin
-
 ---
 OpenGems will go in the future towards AI/MLops and Observability 👀, Feel free to join our [project](https://github.com/orgs/kubegems/projects/9) to share your proposal! 👋
-
-![20230822190030_rec_](https://github.com/kubegems/.github/assets/2688646/954f47f7-543f-4f22-a454-fc788ba8aacc)
 
